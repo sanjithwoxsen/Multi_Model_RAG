@@ -1,4 +1,4 @@
-# Multi Model RAG - PDF AI Chat Application
+# Multi Model QA RAG - PDF AI Chat Application
 
 A sophisticated Retrieval-Augmented Generation (RAG) application that enables intelligent conversations with multiple PDF documents using various AI models. Built with Streamlit, LangChain, and integrated with multiple language models for flexible and powerful document analysis.
 
